@@ -1,0 +1,20 @@
+{
+  "name": "zh-title-guard",
+  "displayName": "中文标题守护",
+  "version": "1.0.0",
+  "description": "当用户使用中文交流时，在新对话首轮自动检查侧边栏标题；若标题为空或不含中文，则通过 ConversationService 更新为简洁的简体中文标题。",
+  "author": {
+    "name": "MuYu",
+    "url": "https://github.com/a1574727816-max"
+  },
+  "homepage": "https://github.com/a1574727816-max/zh-title-guard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a1574727816-max/zh-title-guard"
+  },
+  "suggestedPrompts": [
+    "检查并把当前对话的侧边栏标题改为中文",
+    "排查为什么新建对话侧边栏会生成英文标题",
+    "批量把侧边栏历史英文标题改成中文"
+  ]
+}
